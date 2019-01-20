@@ -1,4 +1,4 @@
-#Stasi - semi-automatic program to restore a torn document.
+# Stasi - semi-automatic program to restore a torn document.
 QUICK START
 -----------
 + In first window you must count the pieces of document, press any key and input their number in console.
